@@ -26,7 +26,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 	});
 
 	// Yaml
-	fetch(content_dir + config_file)
+	fetch(content_dir + config_file, { cache: "no-store" })
 		.then((response) => response.text())
 		.then((text) => {
 			const yml = jsyaml.load(text);
@@ -48,7 +48,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 	// Marked
 	marked.use({ mangle: false, headerIds: false });
 	section_names.forEach((name, idx) => {
-		fetch(content_dir + name + ".md")
+		fetch(content_dir + name + ".md", { cache: "no-store" })
 			.then((response) => response.text())
 			.then((markdown) => {
 				const html = marked.parse(markdown);
