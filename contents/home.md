@@ -1,4 +1,4 @@
-I am currently a first-year Ph.D. student at the [PASTA](https://pasta.cs.vt.edu/) Lab under the guidance of Dr. [Yaxing Yao](http://yaxingyao.com/) at Virginia Tech.
+I am currently a first-year Ph.D. student in the Extended Reality and Artificial Intelligence (Xrai) Lab at Virginia Tech, advised by Dr. [Ryan P. McMahan](https://website.cs.vt.edu/people/faculty/ryan-p-mcmahan.html).
 
 #### Email
 
