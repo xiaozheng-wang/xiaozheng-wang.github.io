@@ -4,4 +4,4 @@ I am currently a Ph.D. student in the Extended Reality and Artificial Intelligen
 
 I study human motion modeling, synthesis, and reconstruction in extended reality, with an emphasis on individual differences, identity, and generalization across users and tasks. My research combines machine learning, statistical analysis, and XR systems to investigate how movement characteristics are represented and preserved in recorded and synthetic motion. My current work explores full-body reconstruction from sparse tracking and biomechanical considerations in motion modeling for virtual avatars.
 
-**Keywords:** Human Motion Modeling and Synthesis; Sparse Tracking and Motion Reconstruction; Individual Differences and Behavioral Identity; Cross-Task Generalization; Machine Learning; XR and Virtual Avatars; Biomechanics.
+**Keywords:** Human-Computer Interaction (HCI); Extended Reality (XR); Machine Learning; Motion-Based User Identification; Sparse Tracking and Full-Body Motion Reconstruction; Human Motion Modeling and Synthesis.
